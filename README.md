@@ -1,4 +1,5 @@
 # Data-Science
+ # Diabetes Health Predictions 
 # Overview
 This project focuses on predicting diabetes using various machine learning models. The models implemented include Support Vector Machine (SVM), Logistic Regression (LR), and Linear Regression. The project achieves an accuracy of 76% and is integrated with a Tableau dashboard for interactive visualization and analysis.
 
